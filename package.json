@@ -1,0 +1,13 @@
+{
+  "name": "npminit",
+  "version": "1.0.0",
+  "description": "la prueba",
+  "main": "index.js",
+  "scripts": {
+    "api-test-production": "newman run pruebaJson.json"
+  },
+  "author": "Carles Llorca",
+  "dependencies": {
+    "newman": "^4.4.1"
+  }
+}
